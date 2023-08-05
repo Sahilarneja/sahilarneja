@@ -1,5 +1,5 @@
-- 👋 **Hi there!, I’m Sahil**
-- 👀 **I’m a 2nd Year Full Stack CSE Student**
-- 📫 You can reach me at : **sahilarnjea2003@gmail.com | Connect with me on LinkedIn: https://www.linkedin.com/in/sahilarneja/.**
+👋 Greetings! I am Sahil.
+👀 Presently, I am a 3rd Year Full Stack Computer Science Engineering (CSE) student.
+📫 You can contact me via email at sahilarnjea2003@gmail.com or connect with me professionally on LinkedIn: https://www.linkedin.com/in/sahilarneja/.
 
 
