@@ -2,7 +2,7 @@
 👋 Greetings! Here's a summary about me:
 - 👀 3rd Year Full Stack CSE student 🎓
 - 💻 Front-end & Back-end expertise
-- Contact: sahilarnjea2003@gmail.com ✉️
+- Contact: sahilarneja2003@gmail.com ✉️
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white) 
